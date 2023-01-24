@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Nolb226/Pedona#readme",
   "dependencies": {
+    "json-server": "^0.17.1",
     "lodash-es": "^4.17.21",
     "regenerator-runtime": "^0.13.11"
   }
